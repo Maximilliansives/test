@@ -1,5 +1,7 @@
 # Running a Successful VMware {code} Experience
-## Introduction to Hackathons
- A VMware jfks
+## Introduction 
+ A VMware {code} experience
 ## Format
 ### Teams
+### Venue
+## Judging 
