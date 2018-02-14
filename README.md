@@ -2,6 +2,10 @@
 ## Introduction 
  A VMware {code} experience
 ## Format
-### Teams
-### Venue
+1. Teams
+ - Chose the number
+ - Sign the up
+   - Before? After?
+2. Venue
+ - Big enough
 ## Judging 
