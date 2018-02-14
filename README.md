@@ -1,6 +1,6 @@
-# Running a Successful VMware {code} Experience
+# Running a Successful vmware{code} Experience
 ## Introduction 
- A VMware {code} experience
+ The VMware{code} program
 ## Format
 1. Teams
  - Chose the number
